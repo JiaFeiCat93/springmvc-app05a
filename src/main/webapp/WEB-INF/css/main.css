@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+#global table {
+	border: 1px black solid;
+}
+
+#global th {
+	border: 1px black solid;
+}
+
+#global td {
+	border: 1px black solid;
+}
